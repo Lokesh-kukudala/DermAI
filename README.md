@@ -40,7 +40,7 @@ DermAI Assistant is an intelligent, AI-powered dermatology tool that helps users
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Nadeem-mohammad0021/DermAI-Assistant.git
+git clone https://github.com/Lokesh-Kukudala/DermAI.git
 cd DermAI-Assistant
 ````
 
@@ -144,9 +144,9 @@ Contributions, feature requests, and bug reports are welcome!
 
 ## 📬 Contact
 
-**Developer:** Nadeem Mohammad
-📧 Email: [nadeem.mohammad0021@gmail.com](mailto:nadeem.mohammad0021@gmail.com)
-🔗 GitHub: [Nadeem-mohammad0021](https://github.com/Nadeem-mohammad0021)
+**Developer:** Lokesh Kukudala
+📧 Email: [kukudalalokesh09@gmail.com](mailto:kukudalalokesh09@gmail.com)
+🔗 GitHub: [Lokesh-Kukudala](https://github.com/Lokesh-kukudala)
 
 ---
 
